@@ -1,0 +1,16 @@
+{
+  "name": "Ecliptari.Conteudo.Prototipo",
+  "rootNamespace": "Ecliptari.Conteudo",
+  "references": [
+    "Ecliptari.Combate.Core"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": true
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Ecliptari.UI",
+  "rootNamespace": "Ecliptari.UI",
+  "references": [
+    "Ecliptari.Combate.Core",
+    "Ecliptari.Conteudo.Prototipo",
+    "Unity.TextMeshPro",
+    "Unity.UGUI"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

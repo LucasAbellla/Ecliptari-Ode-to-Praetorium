@@ -1,0 +1,22 @@
+{
+  "name": "Ecliptari.Combate.Tests.EditMode",
+  "rootNamespace": "Ecliptari.Combate.Tests",
+  "references": [
+    "Ecliptari.Combate.Core",
+    "Ecliptari.Conteudo.Prototipo"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false,
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}
